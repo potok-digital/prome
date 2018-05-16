@@ -1,4 +1,4 @@
-+require 'prometheus/client/rack/exporter'
+require 'prometheus/client/rack/exporter'
 
 module Prome
   class Web
